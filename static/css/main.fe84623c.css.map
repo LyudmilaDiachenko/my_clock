@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fe84623c.css","mappings":"AAAA,WACE,sBAAuB,CAEvB,gBAAiB,CACjB,YAAa,CACb,iBAAkB,CAHlB,SAIF","sources":["index.css"],"sourcesContent":[".container{\n  border: 2px solid green;\n  width: 50%;\n  margin: 50px auto;\n  padding: 20px;\n  text-align: center;\n}"],"names":[],"sourceRoot":""}
